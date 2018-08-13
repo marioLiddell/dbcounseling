@@ -1,1 +1,1 @@
-"web: gunicorn dbcounseling.wsgi --log-file - 
+"web: gunicorn dbc.wsgi --log-file - 
