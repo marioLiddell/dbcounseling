@@ -1,1 +1,1 @@
-"web: gunicorn dbc.wsgi --log-file - 
+web: gunicorn dbc.wsgi --log-file - 
